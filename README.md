@@ -1,6 +1,6 @@
 # Python Data Management and Notification System
 
-This project comprises a set of Python scripts designed to work together to fetch data via a REST API, store it in a local PostgreSQL database, serialize the data for formatting, and finally, notify users of the process completion. It uses .txt files to track the creation of reports and prevent duplicate processing. The system is designed to be run automatically via cron jobs.
+This project comprises a set of Python scripts designed to work together to fetch data via a REST API, store it in a local PostgreSQL database, serialize the data for formatting, and finally, notify users of the newest CVE's. It uses .txt files to track the creation of reports and prevent duplicate processing. The system is designed to be run automatically via cron jobs.
 
 ## Components
 
