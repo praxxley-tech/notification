@@ -41,7 +41,7 @@ Configure ntfy.py with your preferred method of notification (email, Slack, etc.
 
 ## Usage
 
-The scripts are designed to be run in a specific order:
+Scripts are designed to run in a specific order:
 
 1. RestAPI.py to fetch and store data.
 2. db.py to insert data into the database.
