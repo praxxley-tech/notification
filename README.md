@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ### Database Setup
 Ensure your PostgreSQL database is configured correctly and that db.py has the correct connection string.
-You will find information how to set up under	[title](https://www.postgresql.org/docs/current/tutorial-install.html)
+You will find information how to set up under	[[title](https://www.postgresql.org/docs/current/tutorial-install.html)](https://www.postgresql.org/docs/current/tutorial-install.html)
 
 ### Notification Setup
 
